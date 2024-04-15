@@ -1,0 +1,24 @@
+background {
+
+
+}
+
+.fake {
+    height: 70px;
+    width: 150px;
+    background-color: transparent;
+    border: 3px solid black;
+    margin-left: 80%;
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+section {
+  border: 4px solid black;
+  height: 100%;
+  width: 70%;
+  background-color:skyblue;
+}
